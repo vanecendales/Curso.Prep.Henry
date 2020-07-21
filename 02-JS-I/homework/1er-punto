@@ -1,0 +1,17 @@
+PRIMER PUNTO DEL HOMEWORK - VANESSA CENDALES
+
+
+Variables:
+	Son cajitas o capsulas donde podemos guardar todo tipo de informacion que usaremos despues para interactuar o jugar con ellas segun necesitemos. Puede ser un nombre, unos numeros, una fecha o simplemente una decision de si o no.
+
+Strings:
+	Son 'cadenas' como su traduccion lo dice, en la que cada partecita de esa cadena es una letra, numero, o cosa que queramos poner ahi y que este unida por algo como todas las cadenas.
+
+Funciones (argumentos, return):
+	Son todas las ordenes, pasos o decisiones que seguimos para conseguir algo, si quiero fritar un huevo, debo hacer una lista de instrucciones para que no termine reventado en el piso o quemado. esas instrucciones se llaman funciones y sirven para hablar con el computador.
+
+Declaraciones if:
+	Siempre en la vida tomamos decisiones segun algo, si llueve me pongo abrigo si hace sol me pongo gafas si no sombrero, etc... la forma de hablar con el computador es segun las decisiones que yo tome el me muestra o hace algo diferente.
+
+Valores booleanos (true, false):
+	Recuerdas los examenes que solo tenian dos opciones? si o no ? bueno esos son valores boleanos, donde son hay dos opciones verdadero o falso. Esto nos ayuda a decidir si elegimos algo es verdadero y si no lo elegimos es falso.
